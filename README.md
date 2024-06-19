@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 first year CSE undergrad at SRM<br>🌱 I’m currently working on Backend<br>💬 
+🔭 first year CSE undergrad at SRM<br>🌱 I’m currently working on Backend<br>
 
 
 ## 🌐 Socials:
