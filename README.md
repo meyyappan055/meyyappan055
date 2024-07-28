@@ -24,7 +24,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/meyyappan055/meyyappan055/output/snake.svg" alt="Snake animation" />
 
 ###
 
