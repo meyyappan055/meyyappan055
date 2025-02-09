@@ -1,32 +1,3 @@
-<h2 align="left">Hi 👋! My name is Meyyappan</h2>
-
-###
-
-<h4 align="left">I'm a passionate developer working on backend building and maintaining server-side logic, databases, and APIs.</h4>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=meyyappan055&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meyyappan055&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
- 
-</div>
-
-###
-
-
-
-###
-
-<br clear="both">
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/meyyappan055/count.svg?"  />
-</div>
-
 ###
 
 <div align="left">
@@ -61,4 +32,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
 </div>
 
+<br>
+
 ###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=meyyappan055&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meyyappan055&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ 
+</div>
+
+
+<br>
+
+###
+
+
+
+###
+
+<br clear="both">
+
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/meyyappan055/count.svg?"  />
+</div>
+
+
+<br>
+
+
+[![Meyyappan's github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=meyyappan055&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
